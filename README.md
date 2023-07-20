@@ -4,6 +4,7 @@
 - 📫 How con contact with me:
 - 🖨️ Email: javier07gomez02@gmail.com
 - 📞 Phone: +57 3148735894
+- 🔗 Linkedin: www.linkedin.com/in/javier-gómez-210a6a256
 
 <!---
 RundelCode/RundelCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
