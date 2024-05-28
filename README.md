@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Javier Gómez, Im from Cartagena-Colombia.
 - 👀 I’m interested in improving my programming skills in order to materialize my ideas and one day become a senior programmer.
 - 🌱 My intention is to take user interaction to the next level with each line of code.
-- Apart from development, design is my other passion, I have dedicated several years to polishing my skills through various technologies, both 2D and 3D, video and photo editing, and interface design.
-- 📫 How con contact with me:
+- 🎨 Frontend developer passionate about design. Skilled in 2D/3D design, video/photo editing, and interface design.
+- 📫 ¿How can you contact me?:
   - 🖨️ Email: javier07gomez02@gmail.com
   - 📞 Phone: +57 3148735894
   - 🔗 Linkedin: www.linkedin.com/in/javier-gómez-210a6a256
