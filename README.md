@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Javier Gómez, Im from Cartagena-Colombia.
 - 👀 I’m interested in improving my programming skills in order to materialize my ideas and one day become a senior programmer.
-- 🌱 I’m currently learning Angular because I like the front-end a lot.
+- 🌱 My intention is to take user interaction to the next level with each line of code.
+- Apart from development, design is my other passion, I have dedicated several years to polishing my skills through various technologies, both 2D and 3D, video and photo editing, and interface design.
 - 📫 How con contact with me:
   - 🖨️ Email: javier07gomez02@gmail.com
   - 📞 Phone: +57 3148735894
