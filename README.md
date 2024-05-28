@@ -55,5 +55,5 @@
 </div>
 <h4></h4>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jgec070702&count={3})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jgec070702)
 
