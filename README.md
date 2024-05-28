@@ -54,7 +54,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RundelCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <h4></h4>
-<div align="center>
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jgec070702)
-</div>
 
