@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Javier Gómez 👋</h1>
-<img src="https://cdn.wallpapersafari.com/89/68/v8ZRoa.png"/>
+<img align="center" src="https://cdn.wallpapersafari.com/89/68/v8ZRoa.png"/>
 
 - 👀 I’m interested in improving my programming skills in order to materialize my ideas and one day become a senior programmer.
 - 🌱 My intention is to take user interaction to the next level with each line of code.
