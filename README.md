@@ -8,7 +8,7 @@
   - 📞 Phone: +57 3148735894
   - 🔗 Linkedin: www.linkedin.com/in/javier-gómez-210a6a256
 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Git" src="https://64.media.tumblr.com/0901013c2121ffe2b48a755080bf4523/c606e4a7979684c2-78/s1280x1920/e668408582fde369ac25cfa2fbec4451d66f9673.gif"/>
 <h4 align="left">Technologies</h4>
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
