@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Javier Gómez 👋</h1>
-<img src="[https://images6.alphacoders.com/122/1224149.png](https://cdnb.artstation.com/p/assets/images/images/053/358/841/original/jake-comingheremoreoftenlately.gif?1662021666)"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/053/358/841/original/jake-comingheremoreoftenlately.gif?1662021666"/>
 
 - 👀 I’m interested in improving my programming skills in order to materialize my ideas and one day become a senior programmer.
 - 🌱 My intention is to take user interaction to the next level with each line of code.
