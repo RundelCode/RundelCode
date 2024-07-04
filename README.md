@@ -8,6 +8,7 @@
   - 📞 Phone: +57 3148735894
   - 🔗 Linkedin: www.linkedin.com/in/javier-gómez-210a6a256
 
+<img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif"/>
 <h4 align="left">Technologies</h4>
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
