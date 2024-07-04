@@ -1,5 +1,5 @@
 <h1>Hi, I’m Javier Gómez 👋</h1>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
 - 👀 I’m interested in improving my programming skills in order to materialize my ideas and one day become a senior programmer.
 - 🌱 My intention is to take user interaction to the next level with each line of code.
 - 🎨 Frontend developer passionate about design. Skilled in 2D/3D design, video/photo editing, and interface design.
