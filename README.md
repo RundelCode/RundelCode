@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I’m Javier Gómez 👋</h1>
 <p align="center">I´m a frontend developer passionate about design and user interaction</p>
 <img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
+
 - 🎯 **Goal:** Continuously improve my programming skills to materialize my ideas and become a senior developer.
 - 🌱 **Mission:** Take user interaction to the next level with each line of code.
 - 📬 **Contact Me:**
@@ -8,6 +9,21 @@
    - Phone: +57 3148735894
    - LinkedIn: [Javier Gómez](https://www.linkedin.com/in/javier-gómez-210a6a256)
 
+
+### 💼 Work Experience:
+**AT&T - Call Center (MSS Area):**
+- **Role:** Customer Service Representative
+- **Responsibilities:** Handled customer inquiries, resolved service issues, and provided technical support.
+
+**Startup - Development Area Director:**
+- **Role:** Director of Development
+- **Responsibilities:**
+  - Developed web and mobile applications.
+  - Created websites using WordPress.
+  - Managed projects, gathered requirements, and communicated with clients.
+  - Closed projects and ensured client satisfaction.
+  - Focused on frontend development and interface design using Figma.
+  
 ### 🧑‍💼 Freelance Experience:
 Over the last year, I have worked as a freelancer, honing my skills in project management and client relations. Here are some highlights:
 
