@@ -1,14 +1,21 @@
 <h1 align="center">Hi, I’m Javier Gómez 👋</h1>
 <p align="center">I´m a frontend developer passionate about design and user interaction</p>
 <img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
-
 - 🎯 **Goal:** Continuously improve my programming skills to materialize my ideas and become a senior developer.
 - 🌱 **Mission:** Take user interaction to the next level with each line of code.
-- 🎨 Frontend developer passionate about design. Skilled in 2D/3D design, video/photo editing, and interface design.
 - 📬 **Contact Me:**
    - Email: [javier07gomez02@gmail.com](mailto:javier07gomez02@gmail.com)
    - Phone: +57 3148735894
    - LinkedIn: [Javier Gómez](https://www.linkedin.com/in/javier-gómez-210a6a256)
+
+### 🧑‍💼 Freelance Experience:
+Over the last year, I have worked as a freelancer, honing my skills in project management and client relations. Here are some highlights:
+
+- **Project Management:** Successfully managed multiple projects simultaneously, ensuring timely delivery and maintaining high standards of quality.
+- **Client Relations:** Built and maintained strong relationships with clients, understanding their needs and translating them into effective digital solutions.
+- **Communication:** Regularly communicated with clients to provide updates, gather feedback, and ensure satisfaction throughout the project lifecycle.
+- **Problem Solving:** Tackled various technical and design challenges, providing innovative solutions to meet client requirements.
+- **Budget Management:** Efficiently managed project budgets, ensuring cost-effective use of resources while delivering high-quality results.
 
 <h4 align="center">Technologies</h4>
 <div align="center">
