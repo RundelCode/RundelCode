@@ -8,6 +8,7 @@
    - Email: [javier07gomez02@gmail.com](mailto:javier07gomez02@gmail.com)
    - Phone: +57 3148735894
    - LinkedIn: [Javier Gómez](https://www.linkedin.com/in/javier-gómez-210a6a256)
+   - CV: [Curriculum vitae](https://heyzine.com/flip-book/9cbe91fbdc.html)
 
 
 ### 💼 Work Experience:
