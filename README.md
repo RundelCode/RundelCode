@@ -16,8 +16,8 @@
 - **Role:** Customer Service Representative
 - **Responsibilities:** Handled customer inquiries, resolved service issues, and provided technical support.
 
-**Startup - Development Area Director:**
-- **Role:** Director of Development
+**Startup - Web Development Area:**
+- **Role:** Web developer
 - **Responsibilities:**
   - Developed web and mobile applications.
   - Created websites using WordPress.
