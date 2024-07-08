@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Javier Gómez 👋</h1>
 <p align="center">I´m a frontend developer passionate about design and user interaction</p>
-<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/>
+<img align="center" src="https://img.itch.zone/aW1nLzI2NDQ5NDkucG5n/original/3CDxl1.png"/>
 
 - 🎯 **Goal:** Continuously improve my programming skills to materialize my ideas and become a senior developer.
 - 🌱 **Mission:** Take user interaction to the next level with each line of code.
