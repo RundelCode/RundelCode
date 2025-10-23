@@ -71,7 +71,3 @@ Over the last year, I have worked as a freelancer, honing my skills in project m
   <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
 </div>
 <h4></h4>
-<div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/RundelCode?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
-<h4></h4>
